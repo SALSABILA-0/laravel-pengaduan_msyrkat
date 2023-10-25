@@ -1,0 +1,7 @@
+#example1 {
+    border: 10px solid rgba(0, 0, 0, 0.11);
+    padding: 35px;
+    background: url(img_flwr.gif);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
